@@ -53,6 +53,3 @@ As you can see from the diagram below, a decision tree starts with a root node, 
 - **Gradient Boosted Trees**: Sequentially builds trees to minimize errors from previous ones.
 - **Hyperparameter Tuning**: Use `GridSearchCV` or `RandomizedSearchCV` to find the optimal configuration.
 
----
-
-Would you like me to expand on a specific part, such as pruning, hyperparameter tuning, or advanced tree-based models?
